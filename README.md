@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jay 👋
 
-<!--
-**jay-nair-builds/jay-nair-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build tools where marketing, media and money meet.**
 
-Here are some ideas to get you started:
+## What I'm working on
+- 📊 Marketing and media analytics: turning campaign data into decisions
+- 🧠 Brand insights: listening, sentiment and brand-health tracking
+- 📈 Investing and stock analysis: screeners, portfolio and ETF tools
+- 🤖 AI skills and workflows: reusable prompts and automations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+Small, practical tools, each with a clear README and sample data. Ship first, polish later.
+
+## Let's connect
+Open an issue or start a discussion on any repo.
+
+*Tools here are for analysis and education, not financial advice.*
