@@ -3,8 +3,8 @@
 **I build tools where marketing, media and money meet.**
 
 ## Featured
-- 🧰 **[toolkit](https://github.com/jay-nair-builds/toolkit)**: the home for everything I build, organised by theme.
-- 📈 **[Stock and ETF analysis](https://github.com/jay-nair-builds/toolkit/tree/main/investing/stock-etf-analysis)**: the Brand-to-Balance-Sheet (BBS) method. A fair-value forecast, a 0 to 100 score that links brand strength to the balance sheet, a macro backdrop chosen for each company and a pre-mortem, delivered as a visual scorecard and an Excel model. Worked example: Nvidia against Meta.
+- 🧰 **[toolkit](https://github.com/jay-nair-builds/toolkit)**: the home for everything I build: Claude skills, apps and tools.
+- 📈 **[Stock and ETF analysis](https://github.com/jay-nair-builds/toolkit/tree/main/skills/stock-etf-analysis)**: the Brand-to-Balance-Sheet (BBS) method. A fair-value forecast, a 0 to 100 score that links brand strength to the balance sheet, a macro backdrop chosen for each company and a pre-mortem, delivered as a visual scorecard and an Excel model. Worked example: Nvidia against Meta.
 
 ## What I'm working on
 - 📊 Marketing and media analytics: turning campaign data into decisions
